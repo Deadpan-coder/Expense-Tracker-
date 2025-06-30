@@ -39,5 +39,3 @@ A fully functional **Expense Tracker** web app built using **React.js (Vite + Ta
 
 ---
 
-## 📁 Project Structure
-
